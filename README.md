@@ -27,7 +27,6 @@ Optional Features
 3. The application should display a Google Map with Marker showing the red-flag or
 intervention location.
 4. The user gets real-time email notification when Admin changes the status of their record.
-© Andela Confidential
 5. The user gets real-time SMS notification when Admin changes the status of their record.
 
 
